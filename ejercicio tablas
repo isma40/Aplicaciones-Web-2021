@@ -182,4 +182,24 @@
 </table>
 
 <p style="text-align: left;"><strong>5. resultados globales 5.</strong></p>
-
+<table border="4">
+  <tr>
+      <th colspan="4">curso 2019/2020</th> 
+  </tr>
+  <tr>
+    <th colspan="2">1 ESO A</th>
+    <th colspan="2">1 ESO A</th>
+</tr>
+  <tr>
+    <td>Aprobados</td>
+    <td>Suspensos</td>
+    <td>Aprobados</td>
+    <td>Suspensos</td>
+ </tr>
+ <tr>
+    <td>68%</td>
+    <td>57%</td>
+    <td>32%</td>
+    <td>43%</td>
+ </tr>
+</table>
